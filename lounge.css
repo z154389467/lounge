@@ -21,7 +21,7 @@
   border-style: solid;
   border-color: #007e7e;
   width: 200px;
-
+  float: right;
   padding-right: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
@@ -31,6 +31,7 @@
    background-repeat: repeat-x;
   
    line-height: 1em;
+  
 
 }
 #elixirs h2{
@@ -45,3 +46,4 @@
 .artist{
   font-weight: bold;
 }
+
